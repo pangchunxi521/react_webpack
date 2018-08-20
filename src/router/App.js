@@ -1,6 +1,7 @@
-/**
- * Created by Administrator on 2018/7/2.
- */
+/*
+  javascript
+*/
+
 import React,{Component} from 'react'
 import {BrowserRouter as Router,Switch,Route} from  'react-router-dom'
 
@@ -21,3 +22,6 @@ class App extends Component {
 }
 
 export default App;
+
+
+
